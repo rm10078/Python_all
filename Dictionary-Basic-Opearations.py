@@ -1,4 +1,5 @@
 dict1={'apple':100,'Orange':80,'Pineapple':300}
+print(type(dict1))
 print(dict1)
 print(dict1['apple'])
 print(dict1['Pineapple'])
